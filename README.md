@@ -1,2 +1,2 @@
-# portfolio
-here are the files related to my skillsets
+# mattilpea's Portfolio
+This repository will showcase my skillsets 
